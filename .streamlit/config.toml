@@ -1,0 +1,16 @@
+# No fixed base theme: the app follows the system light/dark setting,
+# and viewers can switch in the ⋮ menu -> Settings.
+[theme]
+primaryColor = "#E4572E"
+
+[theme.light]
+primaryColor = "#E4572E"
+
+[theme.dark]
+primaryColor = "#F26B45"
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "viewer"

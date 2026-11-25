@@ -1,0 +1,151 @@
+item_id,dish_name,restaurant,cuisine,price,description,tags,allergens,dietary
+M001,Margherita Pizza,Bella Napoli,Italian,14.50,"Wood-fired thin crust with tomato sauce, fresh mozzarella and basil",comfort,dairy;wheat,vegetarian
+M002,Spaghetti Bolognese,Bella Napoli,Italian,16.00,"Spaghetti in a slow-cooked beef and pork tomato ragu with parmesan",comfort;high_protein,dairy;wheat,
+M003,Chicken Parmesan,Bella Napoli,Italian,18.50,"Breaded chicken cutlet baked with marinara and melted mozzarella, side of penne",comfort;fried;high_protein,dairy;eggs;wheat,
+M004,Minestrone Soup,Bella Napoli,Italian,8.00,"Vegetable soup with beans, small pasta, tomato broth and herbs",light;soup;healthy,wheat,vegan
+M005,Caprese Salad,Bella Napoli,Italian,10.50,"Sliced tomato, fresh mozzarella, basil and olive oil",light;salad,dairy,vegetarian;gluten_free
+M006,Tiramisu,Bella Napoli,Italian,8.50,"Espresso-soaked ladyfingers layered with mascarpone cream and cocoa",sweet;dessert,dairy;eggs;wheat,vegetarian
+M007,Classic Cheeseburger,Grill House 101,American,13.00,"Beef patty with cheddar, lettuce, tomato, pickles and house sauce on a brioche bun",comfort;high_protein,dairy;eggs;wheat;sesame,
+M008,Buffalo Wings,Grill House 101,American,12.50,"Crispy chicken wings tossed in hot buffalo sauce with blue cheese dip",spicy;fried;high_protein,dairy,gluten_free
+M009,Grilled Chicken Sandwich,Grill House 101,American,12.00,"Grilled chicken breast with avocado, lettuce and tomato on whole wheat",high_protein;sandwich;grilled,wheat,
+M010,Garden Veggie Burger,Grill House 101,American,12.50,"Black bean and quinoa patty with lettuce, tomato and vegan aioli on a whole wheat bun",sandwich;healthy,soy;wheat,vegan
+M011,Loaded Fries,Grill House 101,American,8.00,"Fries topped with cheddar sauce, bacon and green onion",fried;comfort,dairy,gluten_free
+M012,Cobb Salad,Grill House 101,American,14.00,"Romaine with grilled chicken, bacon, egg, avocado, blue cheese and tomato",salad;high_protein;low_carb,dairy;eggs,gluten_free
+M013,Chicken Burrito,El Camino Taqueria,Mexican,11.50,"Flour tortilla with grilled chicken, rice, pinto beans, salsa and sour cream",high_protein;comfort,dairy;wheat,
+M014,Carnitas Tacos,El Camino Taqueria,Mexican,10.00,"Three corn tortillas with slow-cooked pork, onion, cilantro and salsa verde",spicy,,gluten_free
+M015,Veggie Burrito Bowl,El Camino Taqueria,Mexican,10.50,"Rice, black beans, fajita vegetables, corn salsa, guacamole and lettuce, no tortilla",healthy;rice,,vegan;gluten_free
+M016,Fish Tacos,El Camino Taqueria,Mexican,12.50,"Beer-battered cod with cabbage slaw and chipotle crema on corn tortillas",fried;spicy,fish;dairy;eggs;wheat,pescatarian
+M017,Chicken Tortilla Soup,El Camino Taqueria,Mexican,9.00,"Chicken and tomato broth with chiles, tortilla strips, avocado and lime",soup;spicy;light,,gluten_free
+M018,Cheese Quesadilla,El Camino Taqueria,Mexican,8.50,"Flour tortilla with melted Monterey Jack, served with pico de gallo",comfort;quick,dairy;wheat,vegetarian
+M019,Kung Pao Chicken,Golden Lotus,Chinese,15.00,"Stir-fried chicken with peanuts, dried chiles and vegetables in a savory sauce",spicy;high_protein,peanuts;soy;wheat,
+M020,Vegetable Fried Rice,Golden Lotus,Chinese,11.00,"Wok-fried rice with egg, peas, carrots, green onion and soy sauce",rice;quick,eggs;soy;wheat,vegetarian
+M021,Mapo Tofu,Golden Lotus,Chinese,13.00,"Silken tofu in a spicy Sichuan chili bean sauce with ground pork",spicy;comfort,soy;wheat,
+M022,Hot and Sour Soup,Golden Lotus,Chinese,7.50,"Tofu, mushroom, bamboo shoots and egg ribbons in a tangy peppery broth",soup;spicy;light,eggs;soy;wheat,vegetarian
+M023,Steamed Vegetable Dumplings,Golden Lotus,Chinese,9.50,"Eight dumplings filled with cabbage, mushroom and carrot with soy dipping sauce",light;healthy,soy;wheat;sesame,vegan
+M024,Orange Chicken,Golden Lotus,Chinese,14.00,"Crispy fried chicken in a sweet and tangy orange glaze with steamed rice",fried;sweet;comfort,eggs;soy;wheat,
+M025,Salmon Nigiri Set,Sakura Sushi,Japanese,17.00,"Six pieces of salmon nigiri with miso soup",light;high_protein;healthy,fish;soy,pescatarian;gluten_free
+M026,Tonkotsu Ramen,Sakura Sushi,Japanese,16.50,"Rich pork bone broth with wheat noodles, chashu pork, soft egg and scallion",soup;noodles;comfort,eggs;soy;wheat;sesame,
+M027,Chicken Teriyaki Bowl,Sakura Sushi,Japanese,14.00,"Grilled chicken glazed in teriyaki sauce over rice with broccoli",high_protein;rice;grilled,soy;wheat;sesame,
+M028,Avocado Cucumber Roll,Sakura Sushi,Japanese,8.50,"Eight-piece roll with avocado and cucumber",light;quick;healthy,sesame,vegan;gluten_free
+M029,Shrimp Tempura Udon,Sakura Sushi,Japanese,16.00,"Thick udon noodles in dashi broth topped with crispy shrimp tempura",soup;noodles;fried,shellfish;fish;eggs;soy;wheat,pescatarian
+M030,Edamame,Sakura Sushi,Japanese,5.50,"Steamed soybeans with sea salt",light;quick;healthy;high_protein,soy,vegan;gluten_free
+M031,Pad Thai,Bangkok Street,Thai,14.00,"Rice noodles stir-fried with shrimp, egg, tofu, bean sprouts and crushed peanuts",noodles;comfort,shellfish;eggs;peanuts;soy;fish,pescatarian;gluten_free
+M032,Green Curry with Chicken,Bangkok Street,Thai,15.00,"Coconut green curry with chicken, bamboo shoots, Thai basil and jasmine rice",spicy;rice,fish,gluten_free
+M033,Tom Yum Soup,Bangkok Street,Thai,10.00,"Hot and sour lemongrass soup with shrimp, mushroom and lime leaf",soup;spicy;light,shellfish;fish,pescatarian;gluten_free
+M034,Papaya Salad,Bangkok Street,Thai,9.50,"Shredded green papaya with chile, lime, tomato and peanuts",salad;spicy;light;healthy,peanuts;fish,pescatarian;gluten_free
+M035,Tofu Basil Stir-fry,Bangkok Street,Thai,13.00,"Tofu and vegetables wok-fried with holy basil and chile, served with rice",spicy;rice;healthy,soy;wheat,vegan
+M036,Mango Sticky Rice,Bangkok Street,Thai,8.00,"Sweet coconut sticky rice with fresh mango",sweet;dessert,,vegan;gluten_free
+M037,Chicken Tikka Masala,Spice Route,Indian,16.00,"Charred chicken tikka in a creamy tomato masala sauce with basmati rice",comfort;high_protein;rice,dairy,gluten_free
+M038,Chana Masala,Spice Route,Indian,12.50,"Chickpeas simmered in spiced onion and tomato gravy with rice",spicy;healthy;rice,,vegan;gluten_free
+M039,Palak Paneer,Spice Route,Indian,13.50,"Cubes of paneer cheese in a creamy spiced spinach sauce",healthy;comfort,dairy,vegetarian;gluten_free
+M040,Lamb Biryani,Spice Route,Indian,18.00,"Fragrant basmati rice layered with spiced lamb, fried onion and mint raita",spicy;rice;high_protein,dairy;tree_nuts,gluten_free
+M041,Vegetable Samosas,Spice Route,Indian,7.00,"Two crispy pastries filled with spiced potato and peas, tamarind chutney",fried;quick,wheat,vegan
+M042,Garlic Naan,Spice Route,Indian,4.50,"Tandoor-baked flatbread brushed with garlic butter",comfort;quick,dairy;wheat,vegetarian
+M043,Chicken Shawarma Plate,Olive & Thyme,Mediterranean,15.50,"Marinated chicken shawarma with rice, salad, hummus and garlic sauce",high_protein;rice,sesame;eggs,gluten_free
+M044,Falafel Wrap,Olive & Thyme,Mediterranean,11.00,"Crispy falafel, tahini, pickled turnip, lettuce and tomato in pita",sandwich;fried,sesame;wheat,vegan
+M045,Greek Salad,Olive & Thyme,Mediterranean,11.50,"Tomato, cucumber, red onion, olives and feta with oregano vinaigrette",salad;light;healthy,dairy,vegetarian;gluten_free
+M046,Lentil Soup,Olive & Thyme,Mediterranean,7.50,"Red lentil soup with cumin and lemon",soup;light;healthy,,vegan;gluten_free
+M047,Grilled Salmon Plate,Olive & Thyme,Mediterranean,19.50,"Grilled salmon fillet with quinoa tabbouleh and roasted vegetables",healthy;high_protein;grilled;low_carb,fish,pescatarian;gluten_free
+M048,Hummus and Pita,Olive & Thyme,Mediterranean,8.00,"Chickpea hummus with olive oil, paprika and warm pita",light;quick,sesame;wheat,vegan
+M049,Bibimbap,Seoul Kitchen,Korean,15.00,"Rice bowl with seasoned vegetables, beef, fried egg and gochujang",rice;spicy;high_protein,eggs;soy;sesame;wheat,
+M050,Kimchi Jjigae,Seoul Kitchen,Korean,14.00,"Spicy kimchi stew with pork and tofu, served with rice",soup;spicy;comfort,soy;fish,gluten_free
+M051,Korean Fried Chicken,Seoul Kitchen,Korean,16.50,"Double-fried chicken glazed in sweet and spicy gochujang sauce",fried;spicy;high_protein,soy;wheat;sesame,
+M052,Japchae,Seoul Kitchen,Korean,13.00,"Sweet potato glass noodles stir-fried with vegetables and sesame oil",noodles;light,soy;sesame,vegan;gluten_free
+M053,Bulgogi Beef Bowl,Seoul Kitchen,Korean,16.00,"Marinated grilled beef over rice with pickled vegetables",high_protein;rice;grilled,soy;sesame;wheat,
+M054,Tofu Soondubu,Seoul Kitchen,Korean,13.50,"Spicy soft tofu stew with vegetables and egg",soup;spicy;healthy,soy;eggs,vegetarian;gluten_free
+M055,Pho Bo,Saigon Noodle Bar,Vietnamese,14.50,"Beef broth simmered with star anise, rice noodles, sliced beef and herbs",soup;noodles;light,fish,gluten_free
+M056,Lemongrass Chicken Vermicelli,Saigon Noodle Bar,Vietnamese,14.00,"Grilled lemongrass chicken over rice vermicelli with herbs and fish sauce",noodles;grilled;light;healthy,fish;peanuts,gluten_free
+M057,Banh Mi,Saigon Noodle Bar,Vietnamese,9.50,"Baguette with grilled pork, pickled carrot, daikon, cilantro and jalapeno",sandwich;quick;spicy,wheat;eggs;soy,
+M058,Fresh Spring Rolls,Saigon Noodle Bar,Vietnamese,7.50,"Rice paper rolls with shrimp, vermicelli, lettuce and peanut dipping sauce",light;healthy;quick,shellfish;peanuts;soy,pescatarian
+M059,Tofu Pho,Saigon Noodle Bar,Vietnamese,13.50,"Vegetable broth with rice noodles, fried tofu, bok choy and herbs",soup;noodles;light;healthy,soy,vegan;gluten_free
+M060,Vietnamese Iced Coffee,Saigon Noodle Bar,Vietnamese,5.00,"Strong drip coffee with sweetened condensed milk over ice",sweet;quick,dairy,vegetarian;gluten_free
+M061,Quinoa Power Bowl,Green Leaf Kitchen,Healthy,14.50,"Quinoa, roasted sweet potato, kale, chickpeas, avocado and lemon tahini",healthy;high_protein;light,sesame,vegan;gluten_free
+M062,Kale Caesar Salad,Green Leaf Kitchen,Healthy,12.00,"Kale with parmesan, sourdough croutons and creamy Caesar dressing",salad;light,dairy;eggs;fish;wheat,pescatarian
+M063,Grilled Chicken Harvest Bowl,Green Leaf Kitchen,Healthy,15.50,"Grilled chicken, brown rice, roasted vegetables, apples and balsamic vinaigrette",healthy;high_protein;grilled,,gluten_free
+M064,Acai Bowl,Green Leaf Kitchen,Healthy,11.00,"Blended acai topped with granola, banana, berries and honey",sweet;breakfast;light,tree_nuts;wheat,vegetarian
+M065,Tomato Basil Soup,Green Leaf Kitchen,Healthy,7.00,"Creamy tomato soup with basil, made with coconut milk",soup;light;comfort,,vegan;gluten_free
+M066,Green Detox Smoothie,Green Leaf Kitchen,Healthy,8.00,"Spinach, kale, cucumber, apple, ginger and lemon",light;healthy;quick,,vegan;gluten_free
+M067,Avocado Toast,Morning Glory Cafe,Breakfast,11.50,"Smashed avocado on sourdough with chili flakes and a poached egg",breakfast;light;healthy,eggs;wheat,vegetarian
+M068,Buttermilk Pancakes,Morning Glory Cafe,Breakfast,12.00,"Three fluffy pancakes with butter and maple syrup",breakfast;sweet;comfort,dairy;eggs;wheat,vegetarian
+M069,Breakfast Burrito,Morning Glory Cafe,Breakfast,11.00,"Scrambled eggs, bacon, potatoes, cheddar and salsa in a flour tortilla",breakfast;high_protein;comfort,dairy;eggs;wheat,
+M070,Greek Yogurt Parfait,Morning Glory Cafe,Breakfast,8.00,"Greek yogurt layered with granola, berries and honey",breakfast;light;healthy,dairy;tree_nuts;wheat,vegetarian
+M071,Veggie Omelette,Morning Glory Cafe,Breakfast,12.50,"Three-egg omelette with spinach, mushroom, tomato and feta, side of fruit",breakfast;high_protein;low_carb,dairy;eggs,vegetarian;gluten_free
+M072,Steel-cut Oatmeal,Morning Glory Cafe,Breakfast,7.50,"Oatmeal with brown sugar, banana and almond milk",breakfast;healthy;light,tree_nuts,vegan
+M073,Turkey Club Sandwich,Main Street Deli,American,13.00,"Roast turkey, bacon, lettuce, tomato and mayo on toasted sourdough",sandwich;high_protein,eggs;wheat,
+M074,Pastrami on Rye,Main Street Deli,American,15.00,"Hot pastrami with mustard on rye bread with a pickle",sandwich;high_protein;comfort,wheat,
+M075,Tuna Salad Sandwich,Main Street Deli,American,11.50,"Tuna salad with celery and mayo on whole wheat with lettuce",sandwich;quick,fish;eggs;wheat,pescatarian
+M076,Chicken Noodle Soup,Main Street Deli,American,8.50,"Chicken broth with egg noodles, carrots and celery",soup;comfort;light,eggs;wheat,
+M077,Caprese Panini,Main Street Deli,American,11.00,"Pressed ciabatta with mozzarella, tomato, basil and pesto",sandwich;quick,dairy;wheat;tree_nuts,vegetarian
+M078,Chopped Garden Salad,Main Street Deli,American,9.50,"Mixed greens, cucumber, carrot, tomato and red wine vinaigrette",salad;light;healthy,,vegan;gluten_free
+M079,Poke Bowl Classic,Aloha Poke Co,Hawaiian,15.50,"Ahi tuna, sushi rice, cucumber, edamame, seaweed salad and shoyu dressing",healthy;high_protein;rice,fish;soy;sesame;wheat,pescatarian
+M080,Spicy Salmon Poke,Aloha Poke Co,Hawaiian,16.00,"Salmon with spicy mayo, brown rice, avocado, jalapeno and green onion",spicy;high_protein;rice,fish;eggs;soy;sesame,pescatarian
+M081,Tofu Poke Bowl,Aloha Poke Co,Hawaiian,13.00,"Marinated tofu, mixed greens, mango, cucumber and ponzu",healthy;light,soy;wheat,vegan
+M082,Shrimp Poke Bowl,Aloha Poke Co,Hawaiian,15.00,"Cooked shrimp, white rice, pineapple, edamame and sweet chili sauce",high_protein;rice,shellfish;soy,pescatarian;gluten_free
+M083,Seaweed Salad,Aloha Poke Co,Hawaiian,5.50,"Marinated wakame seaweed with sesame seeds",light;salad;healthy,sesame;soy,vegan
+M084,Spam Musubi,Aloha Poke Co,Hawaiian,4.50,"Grilled spam on rice wrapped in nori with teriyaki glaze",quick;rice,soy;wheat,
+M085,Pepperoni Slice,Slice of Brooklyn,Pizza,5.00,"Large New York-style slice with pepperoni and mozzarella",quick;comfort,dairy;wheat,
+M086,Veggie Supreme Pizza,Slice of Brooklyn,Pizza,19.00,"Whole pizza with peppers, onions, mushrooms, olives and mozzarella",comfort,dairy;wheat,vegetarian
+M087,Vegan Margherita,Slice of Brooklyn,Pizza,16.00,"Whole pizza with tomato, cashew mozzarella and basil",comfort,tree_nuts;wheat,vegan
+M088,Garlic Knots,Slice of Brooklyn,Pizza,6.00,"Six baked dough knots with garlic butter and parmesan",comfort;quick,dairy;wheat,vegetarian
+M089,Buffalo Chicken Pizza,Slice of Brooklyn,Pizza,21.00,"Whole pizza with buffalo chicken, red onion, mozzarella and ranch drizzle",spicy;comfort,dairy;eggs;wheat,
+M090,Gluten-free Cheese Pizza,Slice of Brooklyn,Pizza,18.00,"Personal gluten-free crust with tomato sauce and mozzarella",comfort,dairy,vegetarian;gluten_free
+M091,BBQ Brisket Plate,Smokehouse Junction,BBQ,22.00,"Slow-smoked beef brisket with coleslaw and cornbread",high_protein;comfort;grilled,dairy;eggs;wheat,
+M092,Pulled Pork Sandwich,Smokehouse Junction,BBQ,14.00,"Smoked pulled pork with tangy BBQ sauce and slaw on a brioche bun",sandwich;comfort,eggs;wheat;dairy,
+M093,Smoked Half Chicken,Smokehouse Junction,BBQ,18.50,"Dry-rubbed smoked chicken with two sides",high_protein;grilled;low_carb,,gluten_free
+M094,Mac and Cheese,Smokehouse Junction,BBQ,8.00,"Baked macaroni with three-cheese sauce and breadcrumb top",comfort,dairy;wheat,vegetarian
+M095,BBQ Jackfruit Sandwich,Smokehouse Junction,BBQ,12.00,"Pulled BBQ jackfruit with pickles on a vegan bun",sandwich;comfort,wheat;soy,vegan
+M096,Collard Greens,Smokehouse Junction,BBQ,5.00,"Slow-braised collard greens with garlic and vinegar",light;healthy,,vegan;gluten_free
+M097,Lobster Roll,Harbor Fish Market,Seafood,26.00,"Chilled lobster with lemon mayo in a buttered roll, side of chips",sandwich,shellfish;dairy;eggs;wheat,pescatarian
+M098,Clam Chowder Bread Bowl,Harbor Fish Market,Seafood,15.00,"Creamy New England clam chowder in a sourdough bread bowl",soup;comfort,shellfish;dairy;wheat,pescatarian
+M099,Fish and Chips,Harbor Fish Market,Seafood,17.50,"Beer-battered cod with fries and tartar sauce",fried;comfort,fish;eggs;wheat,pescatarian
+M100,Grilled Shrimp Skewers,Harbor Fish Market,Seafood,18.00,"Garlic-lime grilled shrimp with rice and grilled vegetables",grilled;high_protein;healthy,shellfish,pescatarian;gluten_free
+M101,Ahi Tuna Salad,Harbor Fish Market,Seafood,19.00,"Seared ahi tuna on mixed greens with sesame-ginger dressing",salad;light;high_protein;low_carb,fish;sesame;soy,pescatarian
+M102,Cioppino,Harbor Fish Market,Seafood,24.00,"San Francisco seafood stew with crab, clams, shrimp and fish in tomato broth",soup;high_protein,shellfish;fish,pescatarian;gluten_free
+M103,Tacos al Pastor,Taco Loco,Mexican,10.50,"Three tacos with marinated pork, pineapple, onion and cilantro",spicy;quick,,gluten_free
+M104,Shrimp Ceviche,Taco Loco,Mexican,13.00,"Lime-cured shrimp with tomato, onion, cilantro and avocado, tortilla chips",light;spicy;healthy,shellfish,pescatarian;gluten_free
+M105,Enchiladas Verdes,Taco Loco,Mexican,14.00,"Corn tortillas filled with chicken and topped with tomatillo sauce and cheese",comfort;spicy,dairy,gluten_free
+M106,Black Bean Soup,Taco Loco,Mexican,7.50,"Smoky black bean soup with cumin and lime",soup;healthy;light,,vegan;gluten_free
+M107,Chips and Guacamole,Taco Loco,Mexican,8.00,"Fresh avocado guacamole with corn tortilla chips",quick;light,,vegan;gluten_free
+M108,Churros,Taco Loco,Mexican,6.00,"Fried dough sticks with cinnamon sugar and chocolate dip",sweet;fried;dessert,dairy;eggs;wheat,vegetarian
+M109,Dan Dan Noodles,Sichuan Garden,Chinese,13.50,"Wheat noodles with spicy chili oil, ground pork, preserved vegetables and peanuts",noodles;spicy;comfort,wheat;soy;peanuts;sesame,
+M110,Dry-fried Green Beans,Sichuan Garden,Chinese,12.00,"Green beans blistered in the wok with garlic and chili",spicy;healthy,soy,vegan;gluten_free
+M111,Xiao Long Bao,Sichuan Garden,Chinese,12.50,"Eight soup dumplings filled with pork and rich broth",comfort,wheat;soy;sesame,
+M112,Beef Chow Fun,Sichuan Garden,Chinese,15.00,"Wide rice noodles stir-fried with beef, bean sprouts and scallion",noodles;comfort;high_protein,soy;wheat,
+M113,Steamed Fish with Ginger,Sichuan Garden,Chinese,22.00,"Whole steamed fish with ginger, scallion and light soy sauce",light;healthy;high_protein,fish;soy;wheat,pescatarian
+M114,Wonton Soup,Sichuan Garden,Chinese,9.00,"Pork and shrimp wontons in clear chicken broth with bok choy",soup;light;comfort,shellfish;wheat;soy;eggs,
+M115,Spicy Tuna Roll,Tokyo Express,Japanese,9.50,"Eight-piece roll with tuna, spicy mayo and cucumber",spicy;quick,fish;eggs;soy;sesame,pescatarian
+M116,Chicken Katsu Curry,Tokyo Express,Japanese,15.00,"Panko-fried chicken cutlet with Japanese curry and rice",fried;comfort;rice,eggs;wheat;soy,
+M117,Miso Soup,Tokyo Express,Japanese,4.00,"Miso broth with tofu, seaweed and green onion",soup;light;quick,soy;fish,pescatarian;gluten_free
+M118,Salmon Teriyaki Bento,Tokyo Express,Japanese,17.50,"Grilled salmon teriyaki with rice, salad and pickles",high_protein;healthy;grilled;rice,fish;soy;wheat,pescatarian
+M119,Vegetable Tempura,Tokyo Express,Japanese,10.00,"Lightly battered sweet potato, zucchini and broccoli with dipping sauce",fried,eggs;wheat;soy,vegetarian
+M120,Cold Soba Noodles,Tokyo Express,Japanese,11.50,"Chilled buckwheat noodles with dipping sauce, scallion and wasabi",noodles;light;healthy,wheat;soy;fish,pescatarian
+M121,Butter Chicken,Curry Leaf,Indian,16.50,"Tandoori chicken in a mild buttery tomato cream sauce with rice",comfort;rice;high_protein,dairy;tree_nuts,gluten_free
+M122,Dal Tadka,Curry Leaf,Indian,11.00,"Yellow lentils tempered with cumin, garlic and chili, served with rice",healthy;comfort;rice,,vegan;gluten_free
+M123,Tandoori Chicken,Curry Leaf,Indian,17.00,"Yogurt-marinated chicken roasted in the tandoor with onion salad",high_protein;grilled;low_carb;spicy,dairy,gluten_free
+M124,Aloo Gobi,Curry Leaf,Indian,12.00,"Potato and cauliflower cooked with turmeric, ginger and spices",healthy;light,,vegan;gluten_free
+M125,Masala Dosa,Curry Leaf,Indian,12.50,"Crispy rice and lentil crepe with spiced potato, sambar and chutney",light;comfort,,vegan;gluten_free
+M126,Mango Lassi,Curry Leaf,Indian,5.00,"Yogurt drink blended with mango",sweet;quick,dairy,vegetarian;gluten_free
+M127,Lamb Gyro,Athens Grill,Greek,13.50,"Sliced lamb and beef gyro with tzatziki, tomato and onion in pita",sandwich;high_protein,dairy;wheat,
+M128,Chicken Souvlaki Plate,Athens Grill,Greek,16.00,"Two grilled chicken skewers with rice, Greek salad and tzatziki",high_protein;grilled;healthy,dairy,gluten_free
+M129,Spanakopita,Athens Grill,Greek,9.00,"Flaky phyllo pie with spinach and feta",comfort,dairy;eggs;wheat,vegetarian
+M130,Avgolemono Soup,Athens Grill,Greek,8.00,"Chicken, rice, egg and lemon soup",soup;light;comfort,eggs,gluten_free
+M131,Vegan Mezze Platter,Athens Grill,Greek,14.00,"Hummus, baba ghanoush, dolmas, olives and pita",light;healthy,sesame;wheat,vegan
+M132,Baklava,Athens Grill,Greek,6.00,"Layers of phyllo with walnuts, pistachios and honey syrup",sweet;dessert,tree_nuts;wheat;dairy,vegetarian
+M133,Grilled Ribeye Steak,Prime Cut Steakhouse,Steakhouse,38.00,"12 oz ribeye with garlic butter and roasted potatoes",high_protein;grilled;comfort,dairy,gluten_free
+M134,Steak Frites,Prime Cut Steakhouse,Steakhouse,29.00,"Grilled flat iron steak with herb butter and fries",high_protein;grilled,dairy,gluten_free
+M135,Wedge Salad,Prime Cut Steakhouse,Steakhouse,13.00,"Iceberg wedge with blue cheese, bacon, tomato and chives",salad;low_carb,dairy;eggs,gluten_free
+M136,Lobster Mac and Cheese,Prime Cut Steakhouse,Steakhouse,24.00,"Baked macaroni with lobster and gruyere",comfort,shellfish;dairy;wheat,pescatarian
+M137,Grilled Chicken Breast,Prime Cut Steakhouse,Steakhouse,21.00,"Herb-marinated chicken breast with steamed broccoli",high_protein;grilled;healthy;low_carb,,gluten_free
+M138,Roasted Mushroom Risotto,Prime Cut Steakhouse,Steakhouse,22.00,"Arborio rice with roasted mushrooms, parmesan and thyme",comfort;rice,dairy,vegetarian;gluten_free
+M139,Falafel Bowl,Beirut Bites,Lebanese,12.50,"Falafel over greens with tabbouleh, hummus and tahini",healthy;light,sesame;wheat,vegan
+M140,Chicken Kebab Wrap,Beirut Bites,Lebanese,12.00,"Grilled chicken kebab with garlic toum, pickles and fries in flatbread",sandwich;high_protein;grilled,wheat;eggs,
+M141,Fattoush Salad,Beirut Bites,Lebanese,10.00,"Romaine, tomato, cucumber, radish and toasted pita with sumac dressing",salad;light;healthy,wheat,vegan
+M142,Beef Kofta Plate,Beirut Bites,Lebanese,16.50,"Spiced ground beef kofta with rice, salad and tahini",high_protein;grilled;rice,sesame,gluten_free
+M143,Lentil and Rice Mujadara,Beirut Bites,Lebanese,11.00,"Lentils and rice with caramelized onions and yogurt cucumber sauce",comfort;healthy;rice,dairy,vegetarian;gluten_free
+M144,Shakshuka,Beirut Bites,Lebanese,12.00,"Eggs poached in spiced tomato and pepper sauce with bread",breakfast;spicy;comfort,eggs;wheat,vegetarian
+M145,Chicken Pesto Panini,Urban Bowl Cafe,Cafe,12.50,"Grilled chicken, pesto, mozzarella and roasted peppers on ciabatta",sandwich;high_protein,dairy;wheat;tree_nuts,
+M146,Southwest Chicken Salad,Urban Bowl Cafe,Cafe,13.50,"Grilled chicken, black beans, corn, avocado and chipotle ranch on romaine",salad;high_protein;spicy,dairy;eggs,gluten_free
+M147,Butternut Squash Soup,Urban Bowl Cafe,Cafe,7.50,"Roasted butternut squash soup with coconut milk and nutmeg",soup;light;healthy,,vegan;gluten_free
+M148,Turkey Avocado Wrap,Urban Bowl Cafe,Cafe,11.50,"Turkey, avocado, spinach and tomato in a whole wheat wrap",sandwich;quick;healthy,wheat,
+M149,Peanut Noodle Salad,Urban Bowl Cafe,Cafe,12.00,"Cold rice noodles with cabbage, carrot, cilantro and peanut dressing",noodles;salad;light,peanuts;soy,vegan;gluten_free
+M150,Chocolate Chip Cookie,Urban Bowl Cafe,Cafe,3.50,"Fresh-baked cookie with dark chocolate chips",sweet;dessert;quick,dairy;eggs;wheat,vegetarian
